@@ -19,4 +19,4 @@ Thanks for having a look at my profile
 
 # Currently hating google domains
 
-(Last updated 10th of November,2022)
+(Last updated 10th of November 2022)
