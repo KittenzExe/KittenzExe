@@ -17,4 +17,6 @@ Thanks for having a look at my profile
 - [Tiwtch](https://twitch.tv/kittenzexe)
 - [Twitter](https://twitter.com/kittenzexe)
 
-(Last updated October,2022)
+# Currently hating google domains
+
+(Last updated 10th of November,2022)
