@@ -17,6 +17,6 @@ Thanks for having a look at my profile
 - [Tiwtch](https://twitch.tv/kittenzexe)
 - [Twitter](https://twitter.com/kittenzexe)
 
-# Currently hating google domains
+# Currently having a love hate relationship with css
 
-(Last updated 10th of November 2022)
+(Last updated 14th of November 2022)
