@@ -2,7 +2,9 @@
 Thanks for having a look at my profile
 
 [![KittenzExe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittenzexe&count_private=true&show_icons=true&theme=transparent&icon_color=7d77d7&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenzexe&count_private=true&show_icons=true&theme=transparent&langs_count=5&layout=compact&icon_color=7d77d7&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)](https://github.com/anuraghazra/github-readme-stats)
+[![KittenzExe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KittenzExe&theme=transparent&icon_color=7d77d7&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)](https://github.com/anuraghazra/github-readme-stats)
 ## Bit about me:
 - Currently a highschool student (Year 12)
 - 💜 OpenXR my beloved
