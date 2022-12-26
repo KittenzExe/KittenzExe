@@ -15,7 +15,7 @@ Thanks for having a look at my profile
 - C++ (Not much)
 - ~~.txt~~ 🇹
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenzexe&count_private=true&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenzexe&count_private=true&show_icons=true&theme=transparent&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 ## My Links:
 - [Youtube](https://www.youtube.com/channel/UCnoHozM85RPHh2XtIigkz_Q)
 - [Tiwtch](https://twitch.tv/kittenzexe)
