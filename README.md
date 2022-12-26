@@ -17,6 +17,9 @@ Thanks for having a look at my profile
 - [Tiwtch](https://twitch.tv/kittenzexe)
 - [Twitter](https://twitter.com/kittenzexe)
 
-# Currently having a love hate relationship with javascript
+# i FUCKIN love firebase <3
 
-(Last updated 16th of November 2022)
+[![KittenzExe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittenzexe&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenzexe)](https://github.com/anuraghazra/github-readme-stats)
+
+(Last updated 26th of December 2022)
