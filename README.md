@@ -19,7 +19,7 @@ Thanks for having a look at my profile
 
 # i FUCKIN love firebase <3
 
-[![KittenzExe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittenzexe&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenzexe)](https://github.com/anuraghazra/github-readme-stats)
+[![KittenzExe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittenzexe&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenzexe&count_private=true&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 (Last updated 26th of December 2022)
