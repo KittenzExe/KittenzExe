@@ -13,6 +13,8 @@ Thanks for having a look at my profile
 ## Code I know:
 - Python 🐍
 - JavaScript 📜
+- Java 🔄
+- React 📗
 - HTML 🖥️
 - CSS 🎆
 - C# 🇨
