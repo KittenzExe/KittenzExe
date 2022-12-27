@@ -8,7 +8,7 @@ Thanks for having a look at my profile
 
 ## Bit about me:
 - Currently a highschool student (Year 12)
-- 💜 OpenXR my beloved
+- Me play games. **a lot of games...**
 - Part-time Content creator (Twitch, Youtube, ect.)
 ## Code I know:
 - Python 🐍
@@ -24,4 +24,4 @@ Thanks for having a look at my profile
 - [Twitter](https://twitter.com/kittenzexe)
 
 # i FUCKIN love firebase <3
-(Last updated 26th of December 2022)
+(Last updated 27th of December 2022)
