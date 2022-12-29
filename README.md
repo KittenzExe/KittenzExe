@@ -27,4 +27,4 @@ Thanks for having a look at my profile
 - [Twitter](https://twitter.com/kittenzexe)
 
 # i FUCKIN love firebase <3
-(Last updated 27th of December 2022)
+(Last updated 29th of December 2022)
