@@ -19,6 +19,7 @@ Thanks for having a look at my profile
 - HTML 🖥️
 - CSS 🎆
 - C# 🇨
+- .net 📍 (Not much)
 - C++ (Not much)
 - ~~.txt~~ 🇹
 ## My Links:
@@ -27,4 +28,4 @@ Thanks for having a look at my profile
 - [Twitter](https://twitter.com/kittenzexe)
 
 # i FUCKIN love firebase <3
-(Last updated 1st of January 2023)
+(Last updated 9th of January 2023)
