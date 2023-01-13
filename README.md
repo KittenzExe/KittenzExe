@@ -21,6 +21,7 @@ Thanks for having a look at my profile
 - C# 🇨
 - .net 📍 (Not much)
 - C++ (Not much)
+- Svelte (Learning)
 - ~~.txt~~ 🇹
 ## My Links:
 - [Youtube](https://www.youtube.com/channel/UCnoHozM85RPHh2XtIigkz_Q)
@@ -28,4 +29,4 @@ Thanks for having a look at my profile
 - [Twitter](https://twitter.com/kittenzexe)
 
 # i FUCKIN love firebase <3
-(Last updated 9th of January 2023)
+(Last updated 13th of January 2023)
