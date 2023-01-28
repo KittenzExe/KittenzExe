@@ -27,6 +27,7 @@ Thanks for having a look at my profile
 <p align="left"> 
   <a> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="50" height="50"/> </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="50" height="50"/> </a>
 </p>
 
 ### My Links:
@@ -34,4 +35,4 @@ Thanks for having a look at my profile
 - [Tiwtch](https://twitch.tv/kittenzexe)
 - [Twitter](https://twitter.com/kittenzexe)
 
-(Last updated 14th of January 2023)
+(Last updated 29th of January 2023)
