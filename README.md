@@ -5,6 +5,7 @@ Thanks for having a look at my profile
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kittenzexe&count_private=true&show_icons=true&card_width=280&theme=transparent&langs_count=6&layout=compact&icon_color=7d77d7&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)![KittenzExe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittenzexe&theme=transparent&icon_color=7d77d7&layout=compact&card_width=400&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KittenzExe)
+![wakatime](https://wakatime.com/badge/user/5fe734af-2708-4102-825d-758345a89313.svg)
 
 ## Bit about me:
 - Currently a highschool student (Year 12)
