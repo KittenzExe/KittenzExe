@@ -1,9 +1,7 @@
 # Hey there! I'm KittenzExe 👋
 Thanks for having a look at my profile
 
-![KittenzExe's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kittenzexe&count_private=true&card_width=400&show_icons=true&theme=transparent&icon_color=7d77d7&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)![KittenzExe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittenzexe&theme=transparent&icon_color=7d77d7&layout=compact&card_width=400&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)
-
-<a href="https://iaminyourwalls.run/marketplace"><img src="https://iaminyourwalls.run/fumo%20marketplace.png" alt="i hope i didnt fuc it up -kittenzexe" width="250" height="250"></a><img src="https://user-images.githubusercontent.com/67358250/209953073-96a5a54e-008a-4853-8f5e-8669f9de2579.png" alt="i hope i didnt fuc it up -kittenzexe" width="250" height="250">
+![KittenzExe's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kittenzexe&count_private=true&card_width=520&show_icons=true&theme=transparent&icon_color=7d77d7&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)![KittenzExe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittenzexe&theme=transparent&icon_color=7d77d7&layout=compact&card_width=200&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KittenzExe)
 ![wakatime](https://wakatime.com/badge/user/5fe734af-2708-4102-825d-758345a89313.svg)
