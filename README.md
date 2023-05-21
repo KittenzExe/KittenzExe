@@ -7,7 +7,7 @@ Thanks for having a look at my profile
 ![wakatime](https://wakatime.com/badge/user/5fe734af-2708-4102-825d-758345a89313.svg)
 
 ## Bit about me:
-- Currently a highschool student (Year 12)
+- Currently a highschool student (Term 3, Year 12)
 - Me play games. **a lot of games...**
 - Part-time Content creator (Twitch, Youtube, ect.)
 ### Code I know:
@@ -32,4 +32,4 @@ Thanks for having a look at my profile
 - [Tiwtch](https://twitch.tv/kittenzexe)
 - [Twitter](https://twitter.com/kittenzexe)
 
-(Last updated 4th of April 2023)
+(Last updated 21st of May 2023)
