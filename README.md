@@ -1,7 +1,7 @@
 # Hey there! I'm KittenzExe 👋
 Thanks for having a look at my profile
 
-![KittenzExe's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kittenzexe&count_private=true&card_width=500&show_icons=true&theme=transparent&icon_color=7d77d7&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)![KittenzExe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittenzexe&theme=transparent&icon_color=7d77d7&layout=compact&card_width=200&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7&langs_count=10)
+![KittenzExe's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kittenzexe&count_private=true&card_width=500px&show_icons=true&theme=transparent&icon_color=7d77d7&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7)![KittenzExe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittenzexe&theme=transparent&icon_color=7d77d7&layout=compact&card_width=1000px&border_color=7d77d7&title_color=7d77d7&text_color=aed3e7&langs_count=10)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KittenzExe)
 ![wakatime](https://wakatime.com/badge/user/5fe734af-2708-4102-825d-758345a89313.svg)
