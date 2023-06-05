@@ -8,7 +8,7 @@ Thanks for having a look at my profile
 
 ## Bit about me:
 - Currently a highschool student (Term 3, Year 12)
-- Web Developer 😎 (i guess. but i do other things too...)
+- Web Developer (front end) (i guess. but i do other things too...)
 - Me play games. **a lot of games...**
 - Part-time Content creator (Twitch, Youtube, ect.)
 ### Code I know:
@@ -33,4 +33,4 @@ Thanks for having a look at my profile
 - [Tiwtch](https://twitch.tv/kittenzexe)
 - [Twitter](https://twitter.com/kittenzexe)
 
-(Last updated 2nd of June 2023)
+(Last updated 5th of June 2023)
