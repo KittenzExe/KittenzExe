@@ -13,7 +13,8 @@ Thanks for having a look at my profile
 - Part-time Content creator (Twitch, Youtube, ect.)
 
 ## Contact me
-If you would like to contact me, send me a dm on discord. (Probably send me a friend request (kittenzexe) and then send me a message)
+- If you would like to contact me, I would recoment send me a dm on discord. (Probably send me a friend request (kittenzexe) and then send me a message)
+- If not, you can email me at: business@kittenzexe.com
 
 ### Code I know:
 <p align="left">
