@@ -11,6 +11,10 @@ Thanks for having a look at my profile
 - Web Developer (front end) (i guess. but i do other things too...)
 - Me play games. **a lot of games...**
 - Part-time Content creator (Twitch, Youtube, ect.)
+
+## Contact me
+If you would like to contact me, send me a dm on discord. (Probably send me a friend request (kittenzexe) and then send me a message)
+
 ### Code I know:
 <p align="left">
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
