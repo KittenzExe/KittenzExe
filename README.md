@@ -7,7 +7,8 @@ Thanks for having a look at my profile
 ![wakatime](https://wakatime.com/badge/user/5fe734af-2708-4102-825d-758345a89313.svg)
 
 ## Bit about me:
-- Currently a highschool student (Term 3, Year 12)
+- Currently 18 years old! (As of the 15th of July)
+- Currently a highschool student (Term 4, Year 12) (School is coming to an end...)
 - Web Developer (front end) (i guess. but i do other things too...)
 - Me play games. **a lot of games...**
 - Part-time Content creator (Twitch, Youtube, ect.)
@@ -37,4 +38,4 @@ Thanks for having a look at my profile
 - [Tiwtch](https://twitch.tv/kittenzexe)
 - [Twitter](https://twitter.com/kittenzexe)
 
-(Last updated 14th of June 2023)
+(Last updated 16th of July 2023)
