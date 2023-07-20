@@ -2,7 +2,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=KittenzExe&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&ring=7D77D7&fire=7D77D7&stroke=404040&currStreakLabel=7D77D7&sideLabels=7D77D7&dates=F4F4F4&sideNums=F4F4F4&currStreakNum=F4F4F4&background=EB000000)">
 </div
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kittenzexe&theme=discord&no-frame=true&no-bg=true&column=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kittenzexe&theme=discord&no-frame=true&no-bg=true&column=8&rank=-C"/>
 </p>
 <div align="center">
   <h1>Hey there, I'm KittenzExe!</h1>
