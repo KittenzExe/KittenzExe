@@ -39,7 +39,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_indepth: yes
           plugin_languages_limit: 10
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -51,4 +50,5 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, languages, languages-graphs, editors
           plugin_wakatime_url: https://wakatime.com/@KittenzExe
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_user: KittenzExe
