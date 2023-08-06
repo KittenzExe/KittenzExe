@@ -16,6 +16,8 @@ jobs:
         with:
           base: header
           config_timezone: Australia/Perth
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
