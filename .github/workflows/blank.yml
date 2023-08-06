@@ -46,15 +46,16 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_tweets: yes
+          plugin_tweets_limit: 1
+          plugin_tweets_user: kittenzexe
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
-          plugin_tweets_user: github
-          plugin_tweets_limit: 1
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, languages, languages-graphs, editors
+          plugin_wakatime_sections: time, editors
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_user: KittenzExe
