@@ -26,4 +26,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45"/>
   </p>
+  <a href="https://github.com/KittenzExe/kittenzexetools/blob/main/vscodethemes/kittenz-exe-v1-color-theme.json">Check out my VSCode theme!</a>
 </div>
