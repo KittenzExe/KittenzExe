@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <h1>Hey there, I'm KittenzExe!</h1>
-  <h3>I am a year 12 student who has a passion for code.</h3>
+  <h3>I am a recently graduated year 12 student who has a passion for code.</h3>
   <h3>Currently doing Web Development but I sometimes do other things.</h3>
   <h2>Resources and Code I use: (Usage may vary)</h2>
   <p>   
