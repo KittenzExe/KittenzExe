@@ -26,5 +26,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45"/>
   </p>
-  <p>Currently have a total of 35 Repos (Public and Private)</p>
+  <p>Currently have a total of 36 Repos (Public and Private)</p>
 </div>
