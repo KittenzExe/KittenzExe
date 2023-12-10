@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=KittenzExe&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&ring=7D77D7&fire=7D77D7&stroke=404040&currStreakLabel=7D77D7&sideLabels=7D77D7&dates=F4F4F4&sideNums=F4F4F4&currStreakNum=F4F4F4&background=EB000000)">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=KittenzExe&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450&ring=7D77D7&fire=7D77D7&stroke=404040&currStreakLabel=7D77D7&sideLabels=7D77D7&dates=F4F4F4&sideNums=F4F4F4&currStreakNum=F4F4F4&background=EB000000)">
   <img src="https://github-profile-trophy.vercel.app/?username=kittenzexe&theme=discord&no-frame=true&no-bg=true&column=4&row=2&margin-w=5"/>
 </div>
 <div align="center">
