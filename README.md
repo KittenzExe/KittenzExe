@@ -30,6 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45"/>
   </p>
-  <p>Currently have a total of 37 Repos (Public and Private)</p>
+  <p>Currently have a total of 38 Repos (Public and Private)</p>
   <a href='https://ko-fi.com/K3K6ILI1Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
