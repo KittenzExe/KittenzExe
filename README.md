@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KittenzExe&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakNum=7D77D7&dates=7D77D7&fire=7D77D7&sideLabels=7D77D7&sideNums=7D77D7&ring=7D77D7&currStreakLabel=7D77D7" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=kittenzexe&theme=discord&no-frame=true&no-bg=true&column=3&row=2&margin-w=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kittenzexe&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2&margin-w=5"/>
 </div>
 <div align="center">
   <h1>Hey there, I'm KittenzExe!</h1>
