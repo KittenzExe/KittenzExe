@@ -4,8 +4,9 @@
 </div>
 <div align="center">
   <h1>Hey there, I'm KittenzExe!</h1>
-  <h3>I'm an Australian programmer and content creator!</h3>
-  <h3>Mainly a Front-End Dev but I sometimes do other things.</h3>
+  <h3>I'm an 18 year old Australian programmer and content creator!</h3>
+  <h3>Mainly a Front-End Developer but I sometimes do other things.</h3>
+  <h3>I also stream on <a href="https://twitch.tv/kittenzexe">Twitch!</a> Check me out some time</h3>
   <h2>Resources and Code I use: (Usage may vary)</h2>
   <p>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45"/>
