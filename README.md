@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Hey there, I'm KittenzExe!<img height="26" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/2a1b2234-acad-41ba-8b21-3b0d7cd353eb"></h1>
   <h3>I'm an 18 year old Australian programmer and content creator!</h3>
-  <h3>Mainly a Front-End Developer but I sometimes do other things.</h3>
+  <h3>A "somewhat" full-stack developer (mainly front-end) but I also do other small things.</h3>
   <h3>I also stream on <a href="https://twitch.tv/kittenzexe">Twitch!</a> Check me out some time</h3>
   <h2><img height="26" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/5ef760aa-78ac-4df2-8240-d4ded236817b"> Resources and Code I use: (Usage may vary)</h2>
   <p>   
