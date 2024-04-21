@@ -40,6 +40,6 @@
     <img src="https://wakatime.com/badge/user/5fe734af-2708-4102-825d-758345a89313.svg?style=for-the-badge"/>
     
   </p>
-  <p>Currently have a total of 51 Repos (Public and Private)</p>
+  <p>Currently have a total of 55 Repos (Public and Private)</p>
   <img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/4b296fdd-d8e6-462a-8ccd-11876cf92e79" height="36"> <a href='https://ko-fi.com/K3K6ILI1Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> <img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/0b4c3461-64ff-46a9-87ce-0d078457b9a5" height="36">
 </div>
