@@ -1,45 +1,26 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KittenzExe&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakNum=7D77D7&dates=7D77D7&fire=7D77D7&sideLabels=7D77D7&sideNums=7D77D7&ring=7D77D7&currStreakLabel=7D77D7" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=kittenzexe&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2&margin-w=5"/>
-</div>
-<div align="center">
-  <h1>Hey there, I'm KittenzExe!<img height="26" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/2a1b2234-acad-41ba-8b21-3b0d7cd353eb"></h1>
-  <h3>I'm an 18 year old Australian programmer and content creator!</h3>
-  <h3>A "somewhat" full-stack developer (mainly front-end) but I also do other small things.</h3>
-  <h3>I also stream on <a href="https://twitch.tv/kittenzexe">Twitch!</a> Check me out some time</h3>
-  <h2><img height="26" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/5ef760aa-78ac-4df2-8240-d4ded236817b"> Resources and Code I use: (Usage may vary)</h2>
-  <p>   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/>
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" height="45"/>
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45"/>
-    <br><br>
-    <img src="https://wakatime.com/badge/user/5fe734af-2708-4102-825d-758345a89313.svg?style=for-the-badge"/>
-    
-  </p>
-  <p>Currently have a total of 55 Repos (Public and Private)</p>
-  <img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/4b296fdd-d8e6-462a-8ccd-11876cf92e79" height="36"> <a href='https://ko-fi.com/K3K6ILI1Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> <img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/0b4c3461-64ff-46a9-87ce-0d078457b9a5" height="36">
-</div>
+### Heya, I'm Kittenz
+
+I am a 18 year old developer specializing in full stack web development (mainly UI/UX focused but also backend), but also exploring other things!
+
+<h2><img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/2f90a34c-cebd-481e-9af2-69a890abd685" alt="writing" height="50px"> Current work</h2>
+
+My main work at the moment is an on-going private project that is yet to be revealed.
+
+Other current projects include:
+- [Kiku](https://github.com/kittenzexe/kiku) - An API to get your Spotify status through discord.
+- [localstack](https://github.com/kittenzexe/localstack) - A simple, lightweight rust program to run multiple projects at once with a single program.
+- [ocebs live](https://github.com/kittenzexe/ocebs-live) - Website for getting the current oce beat saber live sessions.
+- [My personal website](https://kittenzexe.com) - All about me!
+
+<h2><img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/9b19271d-9233-41ec-ad97-a39981ea8aea" alt="cool" height="50px"> Experience</h2>
+  
+My passion is in web development with [Svelte](https://svelte.dev) for frontend, [TailwindCSS](https://tailwindcss.com/) for styling and [Typescript](https://www.typescriptlang.org/) for backend and API's. I also create discord bots using [Python](https://www.python.org/) and other small things in other languages such as [Rust](https://www.rust-lang.org/).
+
+I've been working in web dev for almost 4 years, with 2 years working with Svelte and I have been using TailwindCSS for ~6 months. I've known Javascript for 5 years and switched to Typescript 2 years ago. Known and used Python for 6 years for a wide range of different applications. And recently learning and using Rust for the past ~3 months. (I also know a wide range of other languages that you can read here: [readme-extended.md](https://github.com/KittenzExe/KittenzExe/blob/main/readme-extended.md#list-of-all-resources-and-languages-i-use-and-know)
+
+<h2><img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/87fc1f29-814d-4bf6-9bda-cfbf39e53e1c" alt="loading" height="50px"> Contact</h2>
+
+To reach me quickly, send me a dm on discord. `kittenzexe`
+
+If not discord, feel free to email me at `me(at)kittenzexe.com`
+
