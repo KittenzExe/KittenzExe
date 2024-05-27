@@ -1,3 +1,5 @@
+![Kittenz@4x](https://github.com/KittenzExe/KittenzExe/assets/67358250/5c56cafe-09fa-4881-94d5-978b48ed3240)
+
 ### Heya, I'm Kittenz
 
 I am a 18 year old developer specializing in full stack web development (mainly UI/UX focused but also backend), but also exploring other things!
