@@ -16,13 +16,13 @@ Other current projects include:
 
 <h2><img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/9b19271d-9233-41ec-ad97-a39981ea8aea" alt="cool" height="50px"> Experience</h2>
   
-My passion is in web development with [Svelte](https://svelte.dev) for frontend, [TailwindCSS](https://tailwindcss.com/) for styling and [Typescript](https://www.typescriptlang.org/) for backend and API's. I also create discord bots using [Python](https://www.python.org/) and other small things in other languages such as [Rust](https://www.rust-lang.org/). And of course, I [docker](https://www.docker.com/)-ize everything.
+[![Experience](https://skillicons.dev/icons?i=arduino,cs,cloudflare,css,docker,express,firebase,gcp,git,html,js,lua,md,mysql,nodejs,py,pytorch,rust,svelte,tailwind,ts,vscode)](https://skillicons.dev)
 
-I've been working in web dev for almost 4 years, with 2 years working with Svelte and I have been using TailwindCSS for ~6 months. I've known Javascript for 5 years and switched to Typescript 2 years ago. Known and used Python for 6 years for a wide range of different applications. And recently learning and using Rust for the past ~3 months. (I also know a wide range of other languages that you can read here: [readme-extended.md](https://github.com/KittenzExe/KittenzExe/blob/main/readme-extended.md#list-of-all-resources-and-languages-i-use-and-know)
+(view more info and stats here: [readme-extended.md](https://github.com/KittenzExe/KittenzExe/blob/main/readme-extended.md#list-of-all-resources-and-languages-i-use-and-know))
 
 <h2><img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/87fc1f29-814d-4bf6-9bda-cfbf39e53e1c" alt="loading" height="50px"> Contact</h2>
 
-To reach me quickly, send me a dm on discord. `kittenzexe`
+To reach me quickly, send me a dm on discord. `@kittenzexe`
 
 If not discord, feel free to email me at `me(at)kittenzexe.com`
 
