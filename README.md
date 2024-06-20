@@ -4,7 +4,7 @@
 
 I am a 18 year old developer specializing in full stack web development (mainly UI/UX focused but also backend), but also exploring other things!
 
-@lilysoftpaw is cute
+[lilysoftpaw](https://github.com/lilysoftpaw) is cute
 
 <h2><img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/2f90a34c-cebd-481e-9af2-69a890abd685" alt="writing" height="50px"> Current work</h2>
 
