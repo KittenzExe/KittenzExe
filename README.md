@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/7e6007b0-3ffa-45e1-900f-246d7a79a29e" width="50%" height="50%" />
+<img align="right" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/7e6007b0-3ffa-45e1-900f-246d7a79a29e" width="30%" height="30%" />
 
 <img align="right" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/5c56cafe-09fa-4881-94d5-978b48ed3240" width="45%" height="45%" />
 
