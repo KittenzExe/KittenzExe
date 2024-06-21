@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/7e6007b0-3ffa-45e1-900f-246d7a79a29e" width="30%" height="30%" />
+<img align="right" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/7e6007b0-3ffa-45e1-900f-246d7a79a29e" width="35%" height="35%" />
 
-<img align="right" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/5c56cafe-09fa-4881-94d5-978b48ed3240" width="65%" height="65%" />
+<img align="right" src="https://github.com/KittenzExe/KittenzExe/assets/67358250/5c56cafe-09fa-4881-94d5-978b48ed3240" width="60%" height="60%" />
 
 ### Heya, I'm Kittenz
 
