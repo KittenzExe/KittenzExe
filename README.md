@@ -4,7 +4,7 @@
 
 ### Heya, I'm Kittenz
 
-I am a 18 year old developer specializing in full stack web development (mainly UI/UX focused but also backend), but also exploring other things!
+I am a 19 year old developer specializing in full stack web development (mainly UI/UX focused but also backend), but also exploring other things!
 
 [lilysoftpaw](https://github.com/lilysoftpaw) is cute
 
