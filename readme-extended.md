@@ -7,6 +7,7 @@ Here is a bunch of other things that I couldn't fit into my main [readme](https:
 <img src="https://streak-stats.demolab.com?user=KittenzExe&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakNum=7D77D7&dates=7D77D7&fire=7D77D7&sideLabels=7D77D7&sideNums=7D77D7&ring=7D77D7&currStreakLabel=7D77D7" alt="GitHub Streak">
 <img src="https://github-profile-trophy.vercel.app/?username=kittenzexe&theme=darkhub&no-frame=true&no-bg=true&column=5&row=2&margin-w=5"/>
 <img src="https://wakatime.com/share/@KittenzExe/e647e404-14f8-4b8b-bd5f-ba16c2cdca76.svg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KittenzExe&theme=github-dark">
 
 <h2>List of all resources and languages I use and know</h2>
 <p>   
