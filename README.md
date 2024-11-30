@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/user-attachments/assets/c5063dba-ac53-405d-ac0e-5796faeb8d47" width="100%" />
+<img align="center" src="https://github.com/user-attachments/assets/c638d4b7-5ac3-4902-81a4-ea4239e9573f" width="100%" />
 
 ## Heya, I'm Kittenz
 
