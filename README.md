@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/user-attachments/assets/c638d4b7-5ac3-4902-81a4-ea4239e9573f" width="100%" />
+<img align="center" src="https://media.kittenzexe.com/2024-12-26/bannerround.png/6fa871c6081ffc0f84b99ce2dba661921d403435dcae94cfae6da53c125ed5ff" width="100%" />
 
 ## Heya, I'm Kittenz
 
