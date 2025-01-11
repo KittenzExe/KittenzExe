@@ -1,4 +1,4 @@
-<img align="center" src="https://media.kittenzexe.com/2024-12-26/bannerround.png/6fa871c6081ffc0f84b99ce2dba661921d403435dcae94cfae6da53c125ed5ff" width="100%" />
+<img align="center" src="https://media.kittenzexe.com/2025-01-11/banner rounded.png/3642c2dcc6242af42b2e7f3c67e5a3a75382a56f75ada8964fcd323ee2f956ee" width="100%" />
 
 ## Heya, I'm Kittenz
 
