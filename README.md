@@ -1,8 +1,8 @@
-<img align="center" src="https://media.kittenzexe.com/2025-01-11/banner rounded.png/3642c2dcc6242af42b2e7f3c67e5a3a75382a56f75ada8964fcd323ee2f956ee" width="100%" />
+<img align="center" src="https://media.kittenzexe.com/2025-03-20/bannerround.png/b9a4e62d1f17a0cec8c35af68095dab7f78229a28fb3e56f55ab30a4813a9edc" width="100%" />
 
 ## Heya, I'm Kittenz
 
-I'm a 19 year old developer specializing in full stack web development and backend systems, but always exploring and learning new things!
+I'm a 19 year old developer specializing in full stack web development and backend systems, but always exploring and learning new things! If I'm not coding or working, I'm probably exploring worlds or sleeping...
 
 <h2><img src="https://github.com/KittenzExe/KittenzExe/assets/67358250/2f90a34c-cebd-481e-9af2-69a890abd685" alt="writing" height="40px"> Current work</h2>
 
