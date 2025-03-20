@@ -1,4 +1,8 @@
-<img align="center" src="https://media.kittenzexe.com/2025-03-20/bannerround.png/b9a4e62d1f17a0cec8c35af68095dab7f78229a28fb3e56f55ab30a4813a9edc" width="100%" />
+<p align="center">
+  <a href="https://kittenzexe.com">
+    <img align="center" src="https://media.kittenzexe.com/2025-03-20/bannerround.png/b9a4e62d1f17a0cec8c35af68095dab7f78229a28fb3e56f55ab30a4813a9edc" width="99.5%" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
