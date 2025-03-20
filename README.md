@@ -1,5 +1,11 @@
 <img align="center" src="https://media.kittenzexe.com/2025-03-20/bannerround.png/b9a4e62d1f17a0cec8c35af68095dab7f78229a28fb3e56f55ab30a4813a9edc" width="100%" />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,bash,bun,cloudflare,css,discord,docker,elysia,git,github,githubactions,go,grafana,graphql,html,js,kubernetes,md,mysql,obsidian,prometheus,py,rust,sqlite,svelte,tailwind,tauri,ts,vscode,windows" />
+  </a>
+</p>
+
 ## Heya, I'm Kittenz
 
 I'm a 19 year old developer specializing in full stack web development and backend systems, but always exploring and learning new things! If I'm not coding or working, I'm probably exploring worlds or sleeping...
