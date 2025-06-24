@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kittenzexe.com">
-    <img align="center" src="https://media.kittenzexe.com/2025-06-24/bannerrounded.webp/fa0b6291ae98a2ae5412f209744b8d09b5d4208df1e9bc05394fa8b69a9766ce" width="99.5%" />
+    <img align="center" src="https://media.kittenzexe.com/2025-06-24/bannerrounded.webp/fa0b6291ae98a2ae5412f209744b8d09b5d4208df1e9bc05394fa8b69a9766ce" width="99%" />
   </a>
 </p>
 
