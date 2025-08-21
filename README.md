@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://kittenzexe.com">
-    <img align="center" src="https://web.src.gay/Om2xb" width="99%" />
-  </a>
+  <img align="center" src="https://web.src.gay/Om2xb" width="71%" />
+  <img align="center" src="https://github.com/user-attachments/assets/e77d46ba-77b8-498e-88bf-fb9cf816b4d8" width="28%" />
 </p>
 
 <p align="center">
