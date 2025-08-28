@@ -1,6 +1,6 @@
 <p align="center">
-  <img align="center" src="https://web.src.gay/Om2xb" width="71%" />
-  <img align="center" src="https://github.com/user-attachments/assets/e77d46ba-77b8-498e-88bf-fb9cf816b4d8" width="28%" />
+  <img src="https://web.src.gay/Om2xb" height="220px" />
+  <img src="https://github.com/user-attachments/assets/e77d46ba-77b8-498e-88bf-fb9cf816b4d8" height="220px" />
 </p>
 
 <p align="center">
