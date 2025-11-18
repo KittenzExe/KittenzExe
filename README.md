@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## Heya, I'm Kittenz
+## Heya! I'm Amelia
 
 I'm a 20 year old software engineer specializing in full stack web development, backend systems and scaleable infrastructure, and I'm always open to exploring and learning new things! If I'm not coding or working, I'm probably exploring worlds or sleeping...
 
