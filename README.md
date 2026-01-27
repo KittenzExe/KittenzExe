@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a74fcd10-ff7e-4e2c-8082-53cffe7e09b7" height="220px" />
-  <img src="https://github.com/user-attachments/assets/e77d46ba-77b8-498e-88bf-fb9cf816b4d8" height="220px" />
+  <img src="https://github.com/user-attachments/assets/a74fcd10-ff7e-4e2c-8082-53cffe7e09b7" height="220px" title="hi fizzy! (you should go see her work! its rlly cool! @FizzyApple12 or https://fizzyapple12.com)" />
+  <img src="https://github.com/user-attachments/assets/e77d46ba-77b8-498e-88bf-fb9cf816b4d8" height="220px" title="i am this cat... cat go wrrrrrrrrr" />
 </p>
 
 <p align="center">
