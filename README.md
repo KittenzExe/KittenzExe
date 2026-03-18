@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,bun,cloudflare,discord,docker,elysia,fiber,git,github,githubactions,go,grafana,graphql,kubernetes,mysql,nix,opentelemetry,postgres,prisma,prometheus,py,rust,sqlite,svelte,tailwind,tauri,ts,vscode,windows,zed&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,bun,cloudflare,discord,docker,elysia,etcd,fiber,git,github,githubactions,go,grafana,graphql,kubernetes,mysql,nix,opentelemetry,postgres,prisma,prometheus,py,rust,sqlite,svelte,tailwind,tauri,ts,windows,zed&theme=dark" />
   </a>
 </p>
 
