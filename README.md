@@ -13,5 +13,5 @@
 
 ### *Building dreams the only way I know how, by making and breaking software~*
 
-I'm a 20 year old software engineer specializing in full stack web development, backend systems and scaleable infrastructure, and I'm always open to exploring and learning new things! If I'm not coding or working, I'm probably exploring worlds or sleeping...
+I'm a 21 year old software engineer specializing in full stack web development, backend systems and scaleable infrastructure, and I'm always open to exploring and learning new things! If I'm not coding or working, I'm probably exploring worlds or sleeping...
 
