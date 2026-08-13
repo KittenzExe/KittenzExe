@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5897ee8-721d-43a9-9fb3-ea6f4f32a1a1" height="220px" title="hi fizzy! (you should go see her work! its rlly cool! @FizzyApple12 or https://fizzyapple12.com)" />
-  <img src="https://github.com/user-attachments/assets/e77d46ba-77b8-498e-88bf-fb9cf816b4d8" height="220px" title="i am this cat... cat go wrrrrrrrrr" />
+  <img src="https://github.com/user-attachments/assets/dd4eccb5-e722-444e-9c33-4553a03eddf5" height="260px" title="hi fizzy! (you should go see her work! its rlly cool! @FizzyApple12 or https://fizzyapple12.com)" />
+  <img src="https://github.com/user-attachments/assets/4b7d580d-2218-4a26-9b30-40ef9e8c5338" height="260px" title="i" />
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons">
